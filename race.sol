@@ -5,7 +5,7 @@
 pragma solidity ^0.8.0;
 
 contract MechanicWorkshop {
-    // État du turbo de la voiture : installé ou non
+    // État du turbo de la voiture : installé ou non déclencher en premier
     bool public isTurboInstalled;
 
     // Quantité totale de nitro ajoutée
